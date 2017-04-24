@@ -1,4 +1,4 @@
-Aluno: Guilherme Sasaki
+Aluno: Robson
 Trabalho de Laboratorio de Sistemas Operacionais
 Professor: Alex Salgado
 1o. Semestre de 2017   Turno: ????
